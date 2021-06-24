@@ -1,0 +1,7 @@
+label,number
+this is a label, 42
+"this is another label, containing a comma", 17
+"  this is a label with  extra spaces   ", 4807
+"this is a negative number",(42)
+"this is also a negative number", ( 17 )
+

@@ -1,4 +1,4 @@
 name,salary
 John Doe, $ 50 000,
-Jane Doe, $ 60 000,
-Martin Dupont, € 55 000,
+Jane Doe,"$ 60 000",
+"Martin Dupont,esq", € 55 000,
